@@ -31,3 +31,6 @@ LIBS += D:/workspaces/qt5/opencv_env/lib/opencv_world310.lib \
 
 FORMS += \
     mainwindow.ui
+
+DISTFILES += \
+    README.md
